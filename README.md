@@ -72,13 +72,8 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 # Install required packages
 pip install -r requirements.txt
 
-# Set up the Django app and SQLite database
-python manage.py migrate
-
-# Configure GroqCloud API in settings.py
-
 # Start the web app
-python manage.py runserver
+D:/PathtoFile/app> streamlit run main.py
 ```
 # Known Issues 🚧
 
