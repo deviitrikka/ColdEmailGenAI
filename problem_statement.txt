@@ -1,0 +1,14 @@
+problem statement :
+there are software service companies like tcs infosys stc having huge staff of sw engineers
+these companies help their clients(nike jpmorgan kroger) by providing their staff 
+sales team from infosys tcs etc strategically applying their marketing strategies would send a cold email to the potential clients (nike adidas etc)
+
+now how wd the sales team know if they have a requirements? one of the method wd be they would go to their job portal, look into all the skills they need for a particular role(say aiml developer) and hence send a cold email to the clients
+so instead of hiring full time, they can hire people from tcs infosys etc on a contract basis escaping the huge costs of hiring full time and other benefits
+
+
+TECHNICAL ARCHITECTURE:
+
+![alt text](image.png)
+
+go to groq -> create api key 
