@@ -101,7 +101,8 @@ Push to the branch (git push origin feature-branch).
 Open a pull request for review.
 ```
 # Preview 👀
-(Include a demo video or screenshots here to give an overview of the app.)
+![image](https://github.com/user-attachments/assets/59ad8558-ca7a-413c-9511-4bb7a0a04776)
+
 
 # Acknowledgements 🎉
 GroqCloud API for LLM-based email generation.
