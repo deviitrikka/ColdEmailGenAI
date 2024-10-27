@@ -1,3 +1,5 @@
+pandas
+uuid
 chromadb
 groq
 langchain-community
