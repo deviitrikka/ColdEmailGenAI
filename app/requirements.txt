@@ -9,3 +9,4 @@ langchain-groq
 langchain-core
 pysqlite3-binary
 protobuf==3.20.1
+beautifulsoup4
