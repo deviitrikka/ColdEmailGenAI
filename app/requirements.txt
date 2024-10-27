@@ -1,0 +1,6 @@
+chromadb
+groq
+langchain-community
+dotenv
+langchain-groq
+langchain-core
