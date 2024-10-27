@@ -60,4 +60,4 @@ class Chain:
         return email.content
     
 if __name__ == "__main__":
-    print(os.getenv("groq_api_key"))
+    print(st.secrets["api_key"])
