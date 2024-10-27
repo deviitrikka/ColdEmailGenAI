@@ -6,3 +6,4 @@ langchain-community
 python-dotenv
 langchain-groq
 langchain-core
+sqlite3==3.35.0
