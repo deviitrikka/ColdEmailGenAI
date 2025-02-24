@@ -13,7 +13,7 @@ class Chain:
             temperature = 0,
             # groq_api_key = os.getenv("groq_api_key"),
             groq_api_key = st.secrets["api_key"],
-            model_name="llama-3.1-70b-versatile"
+            model_name="llama-3.3-70b-versatile"
         )
 
     def extract_jobs(self,cleaned_text):
